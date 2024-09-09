@@ -1,0 +1,2 @@
+docker exec -it postgres psql -U bio -d weatherdb
+SELECT * FROM weather_data ;
